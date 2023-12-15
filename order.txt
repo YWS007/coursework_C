@@ -1,0 +1,12 @@
+101,kenf0101,cd1,Iced Americano,1,8.00,8.00
+101,kenf0101,c2,Tiramisu,1,16.00,16.00
+102,limq0328,hd1,Coffee of the day,2,7.00,14.00
+102,limq0328,s1,Chicken Sandwich,1,15.00,15.00
+102,limq0328,c2,Tiramisu,1,16.00,16.00
+103,chiag1201,cd3,Iced Lemon Tea,1,10.50,10.50
+103,chiag1201,c2,Tiramisu,1,16.00,16.00
+103,chiag1201,n1,Chocolate Chips Cookie,1,5.00,5.00
+104,tanx1212,cd2,Iced Latte,2,12.00,24.00
+104,tanx1212,s2,Egg Sandwich,1,12.00,12.00
+105,khorp0917,c1,Red Velvet,1,16.00,16.00
+105,khorp0917,c2,Tiramisu,2,16.00,32.00

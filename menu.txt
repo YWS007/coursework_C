@@ -1,0 +1,15 @@
+hd1,Coffee of the day,hot drinks,7.00
+hd2,Latte,hot drinks,11.00
+hd3,Espresso,hot drinks,8.00
+cd1,Iced Americano,cold drinks,8.00
+cd2,Iced Latte,cold drinks,12.00
+cd3,Iced Lemon Tea,cold drinks,10.50
+s1,Chicken Sandwich,sandwiches,15.00
+s2,Egg Sandwich,sandwiches,12.00
+s3,Avocado Sandwich,sandwiches,14.00
+c1,Red Velvet,cakes,16.00
+c2,Tiramisu,cakes,16.00
+c3,Blueberry Muffin,cakes,12.00
+c4,Croissant,cakes,6.60
+n1,Chocolate Chips Cookie,snacks,5.00
+n2,Pineapple Tart,snacks,5.00
